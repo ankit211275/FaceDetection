@@ -1,0 +1,8 @@
+# virtual environment
+facedetection/
+# face data
+data/
+aug_data/
+logs/
+.ipynb_checkpoints/
+.virtual_documents/
